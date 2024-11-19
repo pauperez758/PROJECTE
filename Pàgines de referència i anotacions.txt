@@ -1,0 +1,13 @@
+REFERÈNCIES:
+
+-   Pàgina flickr de la meva mare (Claudia B.E.): https://flickr.com/people/klaudiadaniela/
+    També agafaré al mateix flickr com a referència per construïr la pàgina
+
+-   SectionHiker: https://sectionhiker.com/
+
+-   HerdNomands: https://nerdnomads.com/
+
+
+ANOTACIONS:
+
+Adjuntaré mapes interactius amb l'API de Google Maps amb les rutes, i possiblement amb les fotos.
